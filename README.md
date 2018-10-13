@@ -1,7 +1,7 @@
 # Python
 Get to know A to Z of Python
 ## Resources
-If you are new to git and github, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
+If you are new to Git and Github, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
 
 ## Diving Into Python
 
